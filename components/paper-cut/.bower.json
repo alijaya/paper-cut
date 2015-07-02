@@ -1,0 +1,39 @@
+{
+  "name": "paper-cut",
+  "authors": [
+    "Ali Jaya Meilio <alijayameilio@gmail.com>"
+  ],
+  "description": "A material design container that looks like a cutted sheet of paper.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "paper",
+    "container"
+  ],
+  "main": "paper-material.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/alijaya/paper-material/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "e76e6c2022",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e76e6c20220b8c7ed590143d69723d0f4eb9d8cd"
+  },
+  "_source": "git://github.com/alijaya/paper-cut.git",
+  "_target": "master",
+  "_originalSource": "alijaya/paper-cut",
+  "_direct": true
+}
